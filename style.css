@@ -73,7 +73,7 @@ input,button{
 
 /* Heading */
 .headline,
-.mark[for='new-task'] {
+.mark[for="new-task"] {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -156,11 +156,11 @@ input,button{
 }
 
 /* Edit Task */
-.section .list-item .insert[type=text] {
+.section .list-item .insert[type="text"] {
   display: none;
 }
 
-.section .edit-mode .insert[type=text] {
+.section .edit-mode .insert[type="text"] {
   display: inline-block;
   width: 224px;
 }
